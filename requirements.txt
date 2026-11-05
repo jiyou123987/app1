@@ -1,5 +1,0 @@
-# Offline / local-network couple diary. Python 3.11 or 3.12 recommended.
-# Install these once while online; running the app needs no external database.
-# SQLite, password hashing and URL handling use Python's standard library.
-streamlit>=1.66.0,<1.67.0
-qrcode[pil]>=8.2,<9.0
